@@ -1,4 +1,4 @@
-export const categories = [
+const categories = [
 	{
 		name: "Tech",
 		count: 2,
